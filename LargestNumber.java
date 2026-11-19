@@ -1,4 +1,4 @@
-class Main1 {
+class LargestNumber {
     public static void main(String args[]) {
         int arr[] = {12, 45, 23, 67, 37};
         int max = arr[0];

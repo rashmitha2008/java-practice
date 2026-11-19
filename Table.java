@@ -7,4 +7,4 @@ class Table {
             i++;
         }
     }
-}f
+}
